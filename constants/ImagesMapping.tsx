@@ -3,14 +3,14 @@ interface ImageMapping {
 }
   
 const images: ImageMapping = {
-aliena_smith: require('@/assets/images/profile-pic/aliena smith.jpg'),
-darren_till: require('@/assets/images/profile-pic/darren till.jpg'),
-ethan_two: require('@/assets/images/profile-pic/ethan(2).jpg'),
+aliena_smith: require('@/assets/images/profile-pic/Sithira Pasanjith.jpg'),
+darren_till: require('@/assets/images/profile-pic/Mahinda.jpg'),
+Sahan_two: require('@/assets/images/profile-pic/Sahan(2).jpg'),
 jorge_dawson: require('@/assets/images/profile-pic/jorge dawson.jpg'),
 michael: require('@/assets/images/profile-pic/michael.jpg'),
 rose: require('@/assets/images/profile-pic/rose.jpg'),
 selena: require('@/assets/images/profile-pic/selena.jpg'),
-wade: require('@/assets/images/profile-pic/wade.jpg'),
+Deshan: require('@/assets/images/profile-pic/Deshan.jpg'),
 sporty: require('@/assets/images/channel_logos/sporty.jpg'),
 realmadrid: require('@/assets/images/channel_logos/realmadrid.jpg'),
 pflmma: require('@/assets/images/channel_logos/pflmma.jpg'),

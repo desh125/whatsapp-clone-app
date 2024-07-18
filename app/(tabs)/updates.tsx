@@ -30,7 +30,7 @@ export default function updates() {
                   <View style={styles.myStatusImageContainer}>
                     <Image
                       style={styles.myStatus}
-                      source={require('@/assets/images/profile-pic/wade.jpg')}
+                      source={require('@/assets/images/profile-pic/Deshan.jpg')}
                     />
                     <View style={styles.myStatusDot}>
                       <Entypo name="plus" size={15} color="white" />
@@ -38,12 +38,10 @@ export default function updates() {
                   </View>
                   <Text style={styles.statusText}>My status</Text>
                 </View>
-                <UpdateStatusImageText ImageName='rose' Name='Rose'/>
-                <UpdateStatusImageText ImageName='selena' Name='Selena'/>
-                <UpdateStatusImageText ImageName='wade' Name='Wade'/>
-                <UpdateStatusImageText ImageName='michael' Name='Michael'/>
-                <UpdateStatusImageText ImageName='jorge_dawson' Name='Jorge Dawson'/>
-                <UpdateStatusImageText ImageName='ethan_two' Name='Ethan'/>
+                <UpdateStatusImageText ImageName='aliena_smith' Name='Sithira Pasanjith'/>
+                <UpdateStatusImageText ImageName='darren_till' Name='Mahinda'/>
+                <UpdateStatusImageText ImageName='Deshan' Name='Deshan'/>
+                <UpdateStatusImageText ImageName='Sahan_two' Name='Sahan'/>
               </View>
             </ScrollView>
           </View>
@@ -54,27 +52,10 @@ export default function updates() {
               <Entypo name="plus" size={24} color="black" />
             </View> 
             <View style={styles.chBottomSection}>
-                <ProfileViewOutside Name={"Real Madrid C.F."} 
-                ImageName='realmadrid'
-                Message={"🆕 We've got a BRAND-NEW episode ofCampo de"} DateTime={"9.30 pm"} 
-                Notification NtfCount={4}/>
-                <ProfileViewOutside Name={"Liverpool Football Club"} 
-                ImageName='liverpool'
-                Message={"🎥 Arne Slot reflects on the first week as the Reds begin"} 
-                DateTime={"8.35 pm"} 
-                Notification NtfCount={8}/>
-                <ProfileViewOutside Name={"Sporty.lk"} 
-                ImageName='sporty'
-                Message={"📷 Happy Retirement Jimmy !! ❤️👏"} DateTime={"6.33 pm"} 
-                Notification NtfCount={2}/>
-                <ProfileViewOutside Name={"PFL MMA"} 
-                ImageName='pflmma'
-                Message={"https://africa.espn.com/mma/story/_/id/40536871/mma-francis"} 
-                DateTime={"5.55 am"} />
                 <ProfileViewOutside Name={"UFC"} 
                 ImageName='ufc'
                 Message={"📷 Put your name on it! ✍️ Tracy Cortez all smiles"} 
-                DateTime={"7/10/24"}/>
+                DateTime={"07/18/24"}/>
                 <ProfileViewOutside Name={"MMA Fighting"} 
                 ImageName='mmafighting' 
                 Message={"📷 Conor McGregor details his toe injury and vows to 'get this back'"}
@@ -83,6 +64,23 @@ export default function updates() {
                 ImageName='wps'
                 Message={"📷 https://youtu.be/FZu9p5F3Fek?si=ggP8KEN"}
                 DateTime={"7/09/24"} NtfCount={75}/>
+                <ProfileViewOutside Name={"Liverpool Football Club"} 
+                ImageName='liverpool'
+                Message={"🎥 Arne Slot reflects on the first week as the Reds begin"} 
+                DateTime={"8.35 pm"} 
+                Notification NtfCount={8}/>
+                <ProfileViewOutside Name={"Real Madrid C.F."} 
+                ImageName='realmadrid'
+                Message={"🆕 We've got a BRAND-NEW episode ofCampo de"} DateTime={"9.30 pm"} 
+                Notification NtfCount={4}/>
+                <ProfileViewOutside Name={"Sporty.lk"} 
+                ImageName='sporty'
+                Message={"📷 Happy Retirement Jimmy !! ❤️👏"} DateTime={"6.33 pm"} 
+                Notification NtfCount={2}/>
+                <ProfileViewOutside Name={"PFL MMA"} 
+                ImageName='pflmma'
+                Message={"https://africa.espn.com/mma/story/_/id/40536871/mma-francis"} 
+                DateTime={"5.55 am"} />
             </View>
           </View>
           <View id='find-channels-section' style={styles.fchSection}>

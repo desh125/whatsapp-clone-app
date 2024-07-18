@@ -18,17 +18,17 @@ export default function calls() {
 
           {/* chat section */}
           <View id='chat-section' style={styles.chatSection}>
-              <ProfileViewOutside Name={"Aliena Smith"} 
-              Message={"I sent you the documents."}
+              <ProfileViewOutside Name={"Sithira Pasanjith"} 
+              Message={"Ado moko wenne"}
               ImageName='aliena_smith' DateTime={"2.01 am"}
               Muted Pinned Notification NtfCount={5}/>
-              <ProfileViewOutside Name={"Darren Till"} 
+              <ProfileViewOutside Name={"Mahinda"} 
               Message={"We will be there by noon. Hope you're ready"}
-              ImageName='darren_till' DateTime={"7/10/24"}
+              ImageName='darren_till' DateTime={"07/18/24"}
               Notification NtfCount={1}/>
-              <ProfileViewOutside Name={"Ethan"} 
-              Message={'Ethan reacted ❤️ to "yeah i will"'}
-              ImageName='ethan_two' DateTime={"2.45 am"}
+              <ProfileViewOutside Name={"Sahan"} 
+              Message={'Sahan reacted ❤️ to "yeah i will"'}
+              ImageName='Sahan_two' DateTime={"2.45 am"}
               Notification NtfCount={3}/>
               <ProfileViewOutside Name={"Jorge Dawson"} 
               Message={"I'm sorry, I can't make it today"}
@@ -43,9 +43,9 @@ export default function calls() {
               <ProfileViewOutside Name={"Selena"} 
               Message={"lorem ipsum dolor sit amet consectetur adipiscing elit"}
               ImageName='selena' DateTime={"Yesterday"}/>
-              <ProfileViewOutside Name={"Wade"} 
+              <ProfileViewOutside Name={"Deshan"} 
               Message={"lorem ipsum dolor sit amet consectetur adipiscing elit"}
-              ImageName='wade' DateTime={"7/9/24"}/>
+              ImageName='Deshan' DateTime={"7/9/24"}/>
           </View>
         </ScrollView>
         <View>

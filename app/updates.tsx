@@ -31,7 +31,7 @@ export default function updates() {
                   <View style={styles.myStatusImageContainer}>
                     <Image
                       style={styles.myStatus}
-                      source={require('@/assets/images/profile-pic/wade.jpg')}
+                      source={require('@/assets/images/profile-pic/Deshan.jpg')}
                     />
                     <View style={styles.myStatusDot}>
                       <Entypo name="plus" size={15} color="white" />
@@ -41,10 +41,10 @@ export default function updates() {
                 </View>
                 <UpdateStatusImageText ImageName='rose' Name='Rose'/>
                 <UpdateStatusImageText ImageName='selena' Name='Selena'/>
-                <UpdateStatusImageText ImageName='wade' Name='Wade'/>
+                <UpdateStatusImageText ImageName='Deshan' Name='Deshan'/>
                 <UpdateStatusImageText ImageName='michael' Name='Michael'/>
                 <UpdateStatusImageText ImageName='jorge_dawson' Name='Jorge Dawson'/>
-                <UpdateStatusImageText ImageName='ethan_two' Name='Ethan'/>
+                <UpdateStatusImageText ImageName='Sahan_two' Name='Sahan'/>
               </View>
             </ScrollView>
           </View>
@@ -74,7 +74,7 @@ export default function updates() {
                 <ProfileViewOutside Name={"UFC"} 
                 ImageName='ufc'
                 Message={"📷 Put your name on it! ✍️ Tracy Cortez all smiles"} 
-                DateTime={"7/10/24"}/>
+                DateTime={"07/18/24"}/>
                 <ProfileViewOutside Name={"MMA Fighting"} 
                 ImageName='mmafighting' 
                 Message={"📷 Conor McGregor details his toe🏆"}

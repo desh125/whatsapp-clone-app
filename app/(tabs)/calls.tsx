@@ -39,7 +39,7 @@ export default function calls() {
 
           <View id='recentSec'>
               <Text style={{fontSize: 16}}>Recent</Text>
-              <ContainerTwo ImageName='wade' Message={"12 July, 6.33 pm"} Name={"Wade"} 
+              <ContainerTwo ImageName='Deshan' Message={"18 July, 9.00 pm"} Name={"Deshan"} 
               Call Audio/>
           </View>
         </ScrollView>

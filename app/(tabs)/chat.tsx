@@ -26,34 +26,21 @@ export default function chat() {
 
           {/* chat section */}
           <View id='chat-section' style={styles.chatSection}>
-              <ProfileViewOutside Name={"Aliena Smith"} 
-              Message={"I sent you the documents."}
-              ImageName='aliena_smith' DateTime={"2.01 am"}
-              Muted Pinned Notification NtfCount={5}/>
-              <ProfileViewOutside Name={"Darren Till"} 
-              Message={"We will be there by noon. Hope you're ready."}
-              ImageName='darren_till' DateTime={"7/10/24"}
+              <ProfileViewOutside Name={"Sithira Pasanjith"} 
+              Message={"Ado moko wenne"}
+              ImageName='aliena_smith' DateTime={"4.30 am"}
+              Muted Pinned Notification NtfCount={2}/>
+              <ProfileViewOutside Name={"Mahinda"} 
+              Message={"Winadi 5k deepan"}
+              ImageName='darren_till' DateTime={"07/18/24"}
               Notification NtfCount={1}/>
-              <ProfileViewOutside Name={"Ethan"} 
-              Message={'Ethan reacted ❤️ to "yeah i will"'}
-              ImageName='ethan_two' DateTime={"2.45 am"}
+              <ProfileViewOutside Name={"Sahan"} 
+              Message={'Sahan reacted ❤️ to "yeah i will"'}
+              ImageName='Sahan_two' DateTime={"2.45 am"}
               Notification NtfCount={3}/>
-              <ProfileViewOutside Name={"Jorge Dawson"} 
-              Message={"I'm sorry, I can't make it today"}
-              ImageName='jorge_dawson' DateTime={"1.34 am"}/>
-              <ProfileViewOutside Name={"Michael"} 
-              Message={"Voice call"}
-              ImageName='michael' DateTime={"1.06 am"}
-              Notification NtfCount={1}/>
-              <ProfileViewOutside Name={"Rose"} 
-              Message={"yes🥳🥳🥳"}
-              ImageName='rose' DateTime={"Yesterday"}/>
-              <ProfileViewOutside Name={"Selena"} 
+              <ProfileViewOutside Name={"Deshan"} 
               Message={"lorem ipsum dolor sit amet consectetur adipiscing elit"}
-              ImageName='selena' DateTime={"Yesterday"}/>
-              <ProfileViewOutside Name={"Wade"} 
-              Message={"lorem ipsum dolor sit amet consectetur adipiscing elit"}
-              ImageName='wade' DateTime={"7/9/24"}/>
+              ImageName='Deshan' DateTime={"7/9/24"}/>
           </View>
         </ScrollView>
          <View> 
