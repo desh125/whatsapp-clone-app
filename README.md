@@ -4,7 +4,7 @@
 
 #### Chat Screen
 
-<br><img src="./assets/images/screenshots/chat.jpg" alt="Chat Screenshot" width="300"/>
+<br><img src="./assets/images/screenshots/Chat.jpg" alt="Chat Screenshot" width="300"/>
 
 #### <br>Updates Screen
 
