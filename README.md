@@ -1,5 +1,4 @@
-WhatsApp UI Clone with React Native & Expo
-
+# WhatsApp Clone with React Native & Expo
 
 ## Screenshots
 
@@ -11,7 +10,12 @@ WhatsApp UI Clone with React Native & Expo
 
 <br>
 <div style="display: flex;">
-  <img src="./assets/images/screenshots/update1.png" alt="Update Screenshot" width="300"/>
-  <img src="./assets/images/screenshots/update2.png" alt="Update Screenshot" width="300"/>
-  <img src="./assets/images/screenshots/update3.png" alt="Update Screenshot" width="300"/>
+  <img src="./assets/images/screenshots/Update1.png" alt="Update Screenshot" width="300"/>
+</div>
+
+#### <br>Calls Screen
+
+<br>
+<div style="display: flex;">
+  <img src="./assets/images/screenshots/Calls.png" alt="Update Screenshot" width="300"/>
 </div>
